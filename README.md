@@ -1,0 +1,3 @@
+# Meal Finder
+
+Welcome! This project is from the Udemy course: 20 Web Projects With Vanilla Javascript. This cool little app implements a search field where you can type in a keyword and hit submit. The app will fetch all meals containing that keyword from the free API "TheMealDB". It will then display various bits of info about the meal including the recipe, ingredients, and pictures. Thanks for visiting!
